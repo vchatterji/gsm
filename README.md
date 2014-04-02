@@ -20,3 +20,8 @@ console.log("Number of SMSes needed:" + parts.sms_count);
 console.log("Remaining characters till next message:" + parts.chars_left);
 console.log("Character set:" + parts.char_set);
 ```
+
+Acknowledgements
+=================
+This module is adapted for Node from:
+https://messente.com/sms/calculator
