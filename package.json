@@ -1,0 +1,23 @@
+{
+  "name": "gsm",
+  "version": "0.1.0",
+  "description": "A package that allows you to calculate the number of SMSes required to send a given text message over a GSM network",
+  "main": "lib/gsm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vchatterji/gsm"
+  },
+  "keywords": [
+    "SMS",
+    "GSM"
+  ],
+  "author": "Varun Chatterji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vchatterji/gsm/issues"
+  },
+  "homepage": "https://github.com/vchatterji/gsm"
+}
