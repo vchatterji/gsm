@@ -25,3 +25,7 @@ Acknowledgements
 =================
 This module is adapted for Node from:
 https://messente.com/sms/calculator
+
+The code has mainly been packaged for NodeJS.
+
+All credit goes to messente for the original code.
