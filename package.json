@@ -1,6 +1,6 @@
 {
   "name": "gsm",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "A package that allows you to calculate the number of SMSes required to send a given text message over a GSM network",
   "main": "lib/gsm.js",
   "scripts": {
