@@ -1,0 +1,24 @@
+{
+  "name": "gsm",
+  "version": "1.0.0",
+  "homepage": "https://github.com/vigbk/gsm",
+  "authors": [
+    "Vignesh Badrinath Krishna <vignesh.bk@gmail.com>",
+	"Varun Chatterji"
+  ],
+  "description": "A library to calculate the number of SMSes required to send a specified text over a GSM network",
+  "main": "lib/browser/gsm.js",
+  "moduleType": [],
+  "license": "ISC",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+	"package.json",
+    "tests",
+    "lib/gsm.js",
+	"bin",
+	".npmignore",
+	".gitignore"
+  ]
+}
